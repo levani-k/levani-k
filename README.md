@@ -31,6 +31,6 @@ Working with global startups, helping them get projects up and running.
 
  
 <div style="display:flex;">
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=levani-k&" alt="levani-kistauri" /></p>
+<!--  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=levani-k&" alt="levani-kistauri" /></p> -->
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levani-k&layout=compact" alt="Levani kistauri Stats" />
 </div>
