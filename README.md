@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## ⚡ Software Crafter | Pentesting Enthusiast
+## ⚡ Software Crafter
 
 Passionate about software development and focused on building performant apps.
 
