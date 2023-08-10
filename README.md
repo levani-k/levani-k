@@ -29,8 +29,7 @@ Working with global startups, helping them get projects up and running.
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/levani-kistauri-1961b41b5/)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/dust_of_eternity/)
 
- 
-<div style="display:flex;">
-<!--  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=levani-k&" alt="levani-kistauri" /></p> -->
+ <img src="https://github-readme-stats.vercel.app/api?username=levani-k&count_private=true&show_icons=true&include_all_commits=true&theme=calm" alt="Levani kistauri => Stats" />
+
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levani-k&layout=compact" alt="Levani kistauri Stats" />
-</div>
+ 
