@@ -31,4 +31,6 @@ Working with global startups, helping them get projects up and running.
  <img src="https://github-readme-stats.vercel.app/api?username=levani-k&count_private=true&show_icons=true&include_all_commits=true&theme=calm" alt="Levani kistauri => Stats" />
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levani-k&layout=compact" alt="Levani kistauri Stats" />
+
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=levani-k&" alt="Levani Kistauri" /></p>
  
