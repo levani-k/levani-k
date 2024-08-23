@@ -1,36 +1,20 @@
-<!-- ### Hi there 👋 -->
-
-<!--
-**levani-k/levani-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## ⚡ Software Crafter
+Hi, I'm Levani – a passionate software developer dedicated to creating high-performance, scalable applications. With a strong focus on delivering impactful solutions, I thrive in helping global startups turn their ideas into successful products.
 
-Passionate about software development and focused on building performant apps.
+I specialize in full-stack development, combining NestJS for backend and React for frontend to build robust, modern applications. I'm always eager to explore new technologies and solve complex problems.
 
-Working with global startups, helping them get projects up and running.
+## 🚀 What I Do:
+Transform ideas into functional, efficient applications.
+Collaborate with innovative startups worldwide.
+Continuously enhance my skills and contribute to the developer community.
 
-
-#### 🔗 How you can reach me ⬇
+## 🔗 Let's Connect ⬇
+Feel free to reach out – I'm always open to networking, collaborations, or just talking tech!
 
 [![Mail](https://img.shields.io/badge/-Email%20me-black?style=for-the-badge&logo=gmail)](mailto:levaniqistauri@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/levani-kistauri-1961b41b5/)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/levani_kistauri/)
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=levani-k&count_private=true&show_icons=true&include_all_commits=true&theme=calm" alt="Levani kistauri => Stats" /> -->
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levani-k&layout=compact" alt="Levani kistauri Stats" /> -->
 
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=levani-k&" alt="Levani Kistauri" /></p>
  
