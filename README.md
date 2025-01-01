@@ -1,10 +1,6 @@
-![DEC 31?](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW93eG05bHo5a296YjR2dWdiOW45eHhpNGV6MHF1eDVrN2FrYWJvMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OHwXl9FasdYCCB9NKJ/giphy.gif)
-
-<!-- 
 ## 🎉 Happy New Year 2025! 🎆  
 Wishing you a fantastic year filled with success, growth, and amazing projects!
 ![Happy New Year GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhsMm0xenVtMHIzMWN3NzlqbWJjZWFuaW4zcDV1NGwzeG41NmN1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/otTstjtpHBpZN4znHa/giphy.gif)
--->
 
 
 ## ⚡ Software Crafter
