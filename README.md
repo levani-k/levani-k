@@ -16,5 +16,5 @@ Feel free to reach out – I'm always open to networking, collaborations, or jus
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/levani_kistauri/)
 
 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=levani-k&" alt="Levani Kistauri" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=levani-k" alt="Levani Kistauri" /></p>
  
