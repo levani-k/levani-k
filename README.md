@@ -14,7 +14,4 @@ Feel free to reach out – I'm always open to networking, collaborations, or jus
 [![Mail](https://img.shields.io/badge/-Email%20me-black?style=for-the-badge&logo=gmail)](mailto:levaniqistauri@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/levani-kistauri-1961b41b5/)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/levani_kistauri/)
-
-
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=levani-k" alt="Levani Kistauri" /></p>
  
