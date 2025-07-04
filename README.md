@@ -20,6 +20,6 @@ Feel free to reach out – I'm always open to networking, collaborations, or jus
 
 <div align="center">
   
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=levani-k&theme=dark&hide_border=true)
 
 </div>
