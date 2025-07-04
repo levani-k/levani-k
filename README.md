@@ -15,3 +15,11 @@ Feel free to reach out – I'm always open to networking, collaborations, or jus
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/levani-kistauri-1961b41b5/)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/levani_kistauri/)
  
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&hide_border=true)
+
+</div>
