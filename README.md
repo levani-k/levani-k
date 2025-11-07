@@ -18,8 +18,6 @@ Feel free to reach out – I'm always open to networking, collaborations, or jus
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-![GitHub Streak](https://streak-stats.demolab.com/?user=levani-k&theme=dark&hide_border=true)
-
+<div style="display:flex;">
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=levani-k&count_private=true&show_icons=true&include_all_commits=true&theme=calm" alt="Levani Kistauri => Stats" />
 </div>
